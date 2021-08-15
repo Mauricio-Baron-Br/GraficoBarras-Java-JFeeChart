@@ -6,6 +6,8 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Mauricio/Documents/projetos/eclipse-workspace/GraficoBarras/lib/jcommon-0.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mauricio/Documents/projetos/eclipse-workspace/GraficoBarras/lib/jfreechart-demo-1.5.2-jar-with-dependencies.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Mauricio/Documents/projetos/eclipse-workspace/GraficoBarras/lib/jfreechart-1.0.6.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Mauricio/Documents/projetos/eclipse-workspace/GraficoBarras/lib/jfreechart-1.0.19-demo.jar"/>
 	<classpathentry kind="output" path="bin"/>
